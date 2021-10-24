@@ -33,12 +33,8 @@ git clone https://github.com/srikanth-atiguppe/shopping-cart.git
 ## install the node_modules
 npm install
 
-## run below command to run the test headless
-npm run test
-
-## running on different browsers(selected Browser should be installed on the machine executing tests)
-npm run test-on-firefox
-npm run test-on-chrome
+## run below command to run the test cases
+npx wdio run wdio.conf.js
 
 
 ## Additions/improvements:
