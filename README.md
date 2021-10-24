@@ -2,8 +2,6 @@
 
 Srikanth Atiguppe
 
-This was done on MacOS.
-
 # Pre requisites
 
 1)Nodejs 12.x.x
@@ -30,10 +28,7 @@ mocha-framework.
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress_bdd_ui_api_automation.git
-
-## cd into the cloned repo
-cd cypress_bdd_ui_api_automation
+git clone https://github.com/srikanth-atiguppe/shopping-cart.git
 
 ## install the node_modules
 npm install
@@ -51,5 +46,4 @@ npm run test-on-chrome
 
 
 ## Reference:
-
 https://webdriver.io/docs/gettingstarted
