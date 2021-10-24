@@ -4,7 +4,7 @@ Srikanth Atiguppe
 
 # Pre requisites
 
-1)Nodejs 12.x.x
+1)Nodejs 14.x.x
 2)Webdriverio
 3)Chrome
 4)Firefox
